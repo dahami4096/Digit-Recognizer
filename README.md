@@ -1,5 +1,5 @@
 # Digit Recognizer
-This paper gives a detailed analysis of a 
+This project gives a detailed analysis of a 
 handwritten digit recognition system which is built using K-Nearest Neighbour (KNN) algorithms and logistic regression. 
 The logistic regression model gives information on the likelihood 
 that a given input will fall into a particular digit class.The KNN 
