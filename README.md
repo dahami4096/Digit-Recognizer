@@ -6,4 +6,4 @@ that a given input will fall into a particular digit class.The KNN
 method effectively utilises the proximity of data points in feature 
 space for categorization purposes. Throughout the project we 
 compare these two models' performances on a dataset, showing 
-the advantages and disadvantages of each model
+the advantages and disadvantages of each model.
