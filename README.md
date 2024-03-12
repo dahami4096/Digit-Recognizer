@@ -28,6 +28,7 @@ The project initially considered two algorithms:
 - K-Nearest Neighbors (KNN). 
 
 **Logistic Regression:** 
+
 Logistic Regression is a linear
 classification algorithm used for binary and multi-class 
 classification problems.
@@ -36,6 +37,7 @@ using a sigmoid function and optimizes coefficients to
 minimize error.
 
 **K-Nearest Neighbors (KNN):** 
+
 KNN is a non-parametric 
 algorithm used for classification and regression.It uses the 
 'k' nearest neighbors' majority vote in the feature space to 
