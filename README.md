@@ -14,3 +14,5 @@ digit samples in the dataset are represented by pixel values,
 which become features for the machine learning model. Each 
 image's matching digit (0–9) is assigned by the output 
 variable.
+
+![alt text](https://github.com/dahami4096/Digit-Recognizer/blob/main/.jpg?raw=true)
