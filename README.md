@@ -15,6 +15,7 @@ which become features for the machine learning model. Each
 image's matching digit (0–9) is assigned by the output 
 variable.
 
+
 ![alt text](https://github.com/dahami4096/Digit-Recognizer/blob/main/MNIST-handwritten-digits-dataset-image.jpeg?raw=true)
 
 You can access to the dataset using this link - [MINIST Dataset](https://www.kaggle.com/competitions/digit-recognizer/data/)
