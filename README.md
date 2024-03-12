@@ -16,3 +16,5 @@ image's matching digit (0–9) is assigned by the output
 variable.
 
 ![alt text](https://github.com/dahami4096/Digit-Recognizer/blob/main/MNIST-handwritten-digits-dataset-image.jpeg?raw=true)
+
+You can access to this uisng the bekow link - [MINIST Dataset]([https://pages.github.com](https://www.kaggle.com/competitions/digit-recognizer/data)https://www.kaggle.com/competitions/digit-recognizer/data/)
