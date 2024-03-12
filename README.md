@@ -43,4 +43,29 @@ algorithm used for classification and regression.It uses the
 'k' nearest neighbors' majority vote in the feature space to 
 estimate the class of a sample.
 
+The logistic regression model was trained for 10 epochs 
+on the MNIST dataset, consisting of 60,000 training images 
+and 10,000 validation images. The training history shows a 
+good, steady improvement in both training and validation 
+accuracy over epochs. Starting with an initial accuracy of 
+91.89%, the model achieved an impressive 99.51% accuracy 
+on the training set by the 10th epoch. The validation accuracy 
+also shows a good improvement, reaching 96.86%.
+
+
+A high accuracy and good precision on the validation 
+dataset was shown by the logistic regression model. The 
+overall accuracy on the validation set was 96.86%, 
+showcasing the model's ability to generalize well to unseen 
+data. Additionally, the precision score was 0.97 and it 
+indicates the model's proficiency in correctly classifying 
+digits.
+
+
+The K-nearest neighbors model, trained using default 
+parameters, achieved a commendable validation accuracy of 
+94.01%. Comparing these values of accuracy with the logistic 
+regression model shows the distinct performance 
+characteristics of each model.
+
 
