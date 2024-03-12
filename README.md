@@ -53,19 +53,3 @@ on the training set by the 10th epoch. The validation accuracy
 also shows a good improvement, reaching 96.86%.
 
 
-A high accuracy and good precision on the validation 
-dataset was shown by the logistic regression model. The 
-overall accuracy on the validation set was 96.86%, 
-showcasing the model's ability to generalize well to unseen 
-data. Additionally, the precision score was 0.97 and it 
-indicates the model's proficiency in correctly classifying 
-digits.
-
-
-The K-nearest neighbors model, trained using default 
-parameters, achieved a commendable validation accuracy of 
-94.01%. Comparing these values of accuracy with the logistic 
-regression model shows the distinct performance 
-characteristics of each model.
-
-
