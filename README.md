@@ -17,4 +17,5 @@ variable.
 
 ![alt text](https://github.com/dahami4096/Digit-Recognizer/blob/main/MNIST-handwritten-digits-dataset-image.jpeg?raw=true)
 
-You can access to this uisng the bekow link - [MINIST Dataset](https://www.kaggle.com/competitions/digit-recognizer/data/)
+You can access to the dataset using this link - [MINIST Dataset](https://www.kaggle.com/competitions/digit-recognizer/data/)
+
