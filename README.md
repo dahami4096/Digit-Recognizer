@@ -55,14 +55,8 @@ also shows a good improvement, reaching 96.86%.
 Below are some of the results we obtained thourgh our models.
 
 <p float="left">
-  <img src="https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_1.png" width="100" />
-  <img src="https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_2.png" width="100" /> 
+  <img src="https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_1.png" width="1000" height="800" />
+  <img src="https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_2.png" width="1000" height="800" /> 
 </p>
 
 
-
-![alt text](https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_1.png) ![alt text](https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_2.png)
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_1.png)  |  ![](https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_2.png)
