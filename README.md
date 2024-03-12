@@ -58,3 +58,6 @@ Below are some of the results we obtained thourgh our models.
 
 ![alt text](https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_2.png)
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_1.png)  |  ![](https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_2.png)
