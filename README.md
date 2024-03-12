@@ -55,8 +55,8 @@ also shows a good improvement, reaching 96.86%.
 Below are some of the results we obtained thourgh our models.
 
 <p float="left">
-  <img src="https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_1.png" width="500" height="500" />
-  <img src="https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_2.png" width="500" height="500" /> 
+  <img src="https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_1.png" width="300" height="300" />
+  <img src="https://github.com/dahami4096/Digit-Recognizer/blob/main/Results_2.png" width="300" height="300" /> 
 </p>
 
 
