@@ -22,18 +22,18 @@ You can access to the dataset using this link - [MINIST Dataset](https://www.kag
 Using an 80/20 split, the dataset was split 
 into training and test sets, with 80% of the data used for 
 model training and 20% for evaluation of performance.
-The project initially considered two algorithms: Logistic 
-Regression and K-Nearest Neighbors (KNN). 
+
+The project initially considered two algorithms: 
+- Logistic Regression 
+- K-Nearest Neighbors (KNN). 
+
 Logistic Regression: Logistic Regression is a linear
 classification algorithm used for binary and multi-class 
 classification problems.
-Equation (Sigmoid Function): The logistic function 1
-1+𝑒−𝑧
- 
-maps the linear combination z = ßo + ẞ1x1 + ẞ2x2 + ... + 
-ẞnxn. It models the probability of the occurrence of a class 
+Equation (Sigmoid Function): The logistic function 1/(1+𝑒−𝑧) maps the linear combination z = ßo + ẞ1x1 + ẞ2x2 + ... + ẞnxn. It models the probability of the occurrence of a class 
 using a sigmoid function and optimizes coefficients to 
 minimize error.
+
 K-Nearest Neighbors (KNN): KNN is a non-parametric 
 algorithm used for classification and regression.It uses the 
 'k' nearest neighbors' majority vote in the feature space to 
